@@ -2,7 +2,7 @@
   <h1 align="center"><b>🌈 Larissa Araujo 🦄 &mdash; @larimas </b></h1>
 </p>
 <p align="center">
-<a href="www.linkedin.com/in/larissamasousa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="www.linkedin.com/in/larissamasousa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://larimas.github.io"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
  <a href="mailto:larissamasousa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
 <br />
