@@ -16,7 +16,7 @@ experience in front-end or back-end web development opportunities to enhance my 
 I'm recognized for fast thinking in solving problems and my ability to work well in a
 team. Feel free to explore my repositories, I'm always open to contact!
 
-👨‍💻 &nbsp;Know more about me at <a href="www.linkedin.com/in/larissamasousa">Larissa Araujo</a>.</br>
+👨‍💻 &nbsp;Know more about me at <a href="https://www.linkedin.com/in/larissamasousa">Larissa Araujo</a>.</br>
 ⚡ &nbsp;Fun facts: I :heart: 🎮, 🥟 and 🎧.</br>
 
 
