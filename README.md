@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>🌈 Larissa Araujo @wanderlari &mdash; Entry-level Frontend Developer that's always learning 🦄 </b></h1>
+  <h1 align="center"><b>🌈 Larissa Araujo @wanderlari &mdash; Entry-level Frontend Developer who's always learning 🦄 </b></h1>
 </p>
 <p align="center">
 <a href="https://larimas.github.io/portifolio-site/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
