@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>🌈 Larissa Araujo 🦄 &mdash; @larimas </b></h1>
+  <h1 align="center"><b>🌈 Larissa Araujo @wanderlari &mdash; Entry-level Frontend Developer that's always learning 🦄 </b></h1>
 </p>
 <p align="center">
 <a href="https://larimas.github.io/portifolio-site/"><img src="https://img.shields.io/badge/-PORTFOLIO-%23ff69b4&?style=for-the-badge&?color=ff69b4" alt="Portfolio" /></a>&nbsp;
@@ -10,9 +10,6 @@
 </p>
                                          
 Hello there Lari in the area! 👋
-
-I'm a detail-oriented programming student seeking an internship to gain practical
-experience in front-end or back-end web development opportunities to enhance my skills and knowledge further.
  
 I'm recognized for fast thinking in solving problems and my ability to work well in a
 team. Feel free to explore my repositories, I'm always open to contact!
@@ -21,8 +18,7 @@ team. Feel free to explore my repositories, I'm always open to contact!
 ⚡ &nbsp;Fun facts: I :heart: 🎮, 🥟 and 🎧.</br>
 
 
-
-<h3 align="center">🌱 My growing so far!</h3>
+<h3 align="center">🌱 My growing so far 🌱</h3>
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=larimas&theme=radical&show_icons=true&hide_border=true&bg_color=00000000" width="410" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=larimas&hide_border=true&theme=radical&bg_color=00000000&hide=html,css" alt="larimas" height="200" />
